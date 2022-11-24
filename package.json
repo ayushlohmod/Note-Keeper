@@ -1,12 +1,10 @@
 {
-  "name": "keeper-app-part-1-completed",
+  "name": "keeper-app-part-2-starting",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@material-ui/core": "4.6.0",
-    "@material-ui/icons": "4.5.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
